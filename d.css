@@ -1,0 +1,68 @@
+.botas{
+    color: white;
+}
+.b1{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b2{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b3{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b4{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b5{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b6{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b7{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b8{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b9{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.b10{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.logo-loja1{
+    width: 330px;
+    height: 200;
+ 
+ }
+ @media screen and (max-width: 768px) {
+    nav li {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    footer p {
+        display: none;
+    }
+ }
